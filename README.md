@@ -5,11 +5,7 @@ Django CRM is opensource CRM developed on django framework. It has all
 the basic features of CRM to start with. We welcome code contributions
 and feature requests via github.
 
-<http://django-crm.readthedocs.io> for latest documentation
 
-
-
-## Try for free [here](https://bottlecrm.com/)
 ---
 
 # Installation
