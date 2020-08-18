@@ -35,7 +35,7 @@ python manage.py runserver
 ```
 Then open http://localhost:8000 in your borwser and create a new account with test as company name. We mapped test.localhost to 127.0.0.1 So, it should work properly.
 
-==================
+---
 Admin page: /admin
 Username:admin
 Password:admin
